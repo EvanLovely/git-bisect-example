@@ -14,4 +14,14 @@
   border: solid 1px #ccc;
   padding: 5px;
   margin: 10px; 
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.footer .block {
+  border: solid 1px #ccc;
+  padding: 5px;
+  flex-basis: 23%;
+  flex-grow: 1;
 }

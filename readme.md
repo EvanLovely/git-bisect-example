@@ -1,5 +1,7 @@
 # Git Bisect Example
 
+> An example repo to demo how to use `git bisect`.
+
 ## Setup
 
     npm install

@@ -4,6 +4,15 @@
   margin: 10px;
 }
 
+.nav {
+  display: flex;
+  justify-content: space-between;
+}
+
+.nav li {
+  list-style-type: none;
+}
+
 .page {
   border: solid 1px #ccc;
   padding: 5px;
